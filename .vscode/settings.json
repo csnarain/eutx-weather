@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0b709d79-74ab-4ddc-9770-2a77b5fb1a9f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/open-weather-app"
+}
